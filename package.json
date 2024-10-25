@@ -1,0 +1,24 @@
+{
+  "name": "swissconomy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^6.0.2",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "jimp": "^1.6.0",
+    "mongoose": "^8.6.2",
+    "node": "^22.8.0",
+    "node.js": "^0.0.1-security",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1"
+  }
+}
